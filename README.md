@@ -1,2 +1,4 @@
 # mct
-Official MCT account
+MCT Official github account
+
+Our website is http://mct.xyz
